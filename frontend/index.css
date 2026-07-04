@@ -6,7 +6,7 @@ h1 {
 #Home-Intro{
   text-align: center;
   border: 3px;
-  border-color: red;
+  border-color: pink;
   border-style: solid;
 }
 #Home-Intro:hover{
