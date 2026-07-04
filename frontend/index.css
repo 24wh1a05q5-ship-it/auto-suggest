@@ -10,14 +10,14 @@ h1 {
   border-style: solid;
 }
 #Home-Intro:hover{
-  background-color: blue;
+  background-color: burlywood;
 }
 #p2{
   color: green;
 }
 #nav{
   text-align: center;
-  background-color: burlywood;
+  background-color: blueviolet;
   height: 25px;
   padding-top: 5px;
   margin-bottom: 5px;
